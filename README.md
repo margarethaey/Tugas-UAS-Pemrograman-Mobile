@@ -5,5 +5,7 @@ File ini adalah kumpulpulan source code untuk membuat sebuah aplikasi yang digun
 Anggota Kelompok Kami:
 
 Margaretha E. Yobella (18051204009)
+
 Abastian Dwi Saputra 18051204027)
+
 M. Rifki Agustian (18051204034)
